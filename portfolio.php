@@ -47,9 +47,9 @@
 </div>
 </content>
 
-<?php require './components/sidebox.php' ?>
+<?php require 'components/sidebox.php' ?>
 
-<?php require './components/footer.php' ?>
+<?php require 'components/footer.php' ?>
 
 </body>
 </html>

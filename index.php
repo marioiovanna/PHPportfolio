@@ -2,13 +2,13 @@
 <html lang="en-us">
 <head>
 
-    <?php require './components/head.php' ?>
+    <?php require 'components/head.php' ?>
 
 </head>
 
 <body>
 
-<?php require './components/header.php' ?>
+<?php require 'components/header.php' ?>
 
 <content>
 	<div id="pic">
@@ -28,9 +28,9 @@
 	</div>
 </content>
 
-<?php require './components/sidebox.php' ?>
+<?php require 'components/sidebox.php' ?>
 
-<?php require './components/footer.php' ?>
+<?php require 'components/footer.php' ?>
 
 </body>
 </html>
