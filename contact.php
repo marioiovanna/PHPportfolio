@@ -3,13 +3,13 @@
 <html lang="en-us">
 <head>
 
-	<?php require './components/head.php' ?>
+	<?php require 'components/head.php' ?>
 
 </head>
 
 <body>
 
-<?php require './components/header.php' ?>
+<?php require 'components/header.php' ?>
 
 	<div class="field">
 		<div class="field2">Contact</div>
@@ -22,9 +22,9 @@
 			<input class="sub" type="submit">
 		</div>
 
-<?php require './components/sidebox.php' ?>
+<?php require 'components/sidebox.php' ?>
 
-<?php require './components/footer.php' ?>
+<?php require 'components/footer.php' ?>
 
 </body>
 </html>
